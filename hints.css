@@ -1,0 +1,100 @@
+*{
+    position: absolute;
+}
+
+div{
+    color: coral;
+
+}
+
+.hm{
+    left: 50px;
+    color:crimson;
+}
+
+.ins{
+    left: 200px;
+}
+
+.bl{
+    left: 360px;
+}
+
+.sub{
+    left: 440px;
+}
+
+.tips{
+    position: absolute;
+    color: red;
+    left: 50px;
+    font-size: 130px; 
+    text-align: center;
+    border: solid 12px coral;
+    border-radius: 40px;
+
+}
+
+.final1 {
+    position: absolute;
+    color: coral;
+    left: 650px;
+    top: 75px;
+    border: solid 5px coral;
+    border-spacing: px;
+    font-size: 21px;
+}
+
+.final2 {
+    position: absolute;
+    color: coral;
+    left: 810px;
+    top: 75px;
+    border: solid 5px coral;
+    font-size: 21px;
+}
+
+.final3 {
+    position: absolute;
+    color: coral;
+    left: 1000px;
+    top: 75px;
+    border: solid 5px coral;
+    font-size: 21px;
+}
+
+.final4 {
+    position: absolute;
+    color: coral;
+    left: 1160px;
+    top: 75px;
+    border: solid 5px coral;
+    font-size: 21px;
+}
+
+.final5 {
+    position: absolute;
+    color: coral;
+    left: 1360px;
+    top: 75px;
+    border: solid 5px coral;
+    font-size: 21px;
+}
+
+.final6 {
+    position: absolute;
+    color: coral;
+    left: 1550px ;
+    top: 75px;
+    border: solid 5px coral;
+    font-size: 21px;
+}
+
+.fantfi {
+    position: absolute;
+    border: solid coral 7px;
+    top: 550px;
+    left: 590px;
+    width: 365px;
+    height: 210px;
+}
