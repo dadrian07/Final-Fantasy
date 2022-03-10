@@ -1,0 +1,30 @@
+div{
+    border: 2px solid coral;
+    text-align: center;
+    font-size: 30px;
+}
+
+.ins{
+    color: crimson;
+}
+
+.hin{
+    color: crimson;
+}
+
+.bl{
+    color: crimson;
+}
+
+.hm{
+    color: crimson;
+}
+
+label{
+    color: coral;
+}
+
+form{
+    text-align: center;
+}
+

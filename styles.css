@@ -1,0 +1,48 @@
+.font{
+    color: coral;
+    text-align: center;
+}
+
+.ff{
+    color: crimson;
+}
+
+header{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+div{
+    border: 2px solid coral;
+    text-align: center;
+    font-size: 30px;
+}
+
+.ins{
+    color: crimson;
+}
+
+.hin{
+    color: crimson;
+}
+
+.bl{
+    color: crimson;
+}
+
+.sub{
+    color: crimson;
+}
+
+footer{
+    color: coral;
+    text-align: center;
+}
